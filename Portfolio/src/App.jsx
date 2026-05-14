@@ -58,7 +58,7 @@ function App() {
 
             <div className="hero-cta-row">
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1IuNitgncQ6h3EnOG-3Y_kUrnrDagUBnP/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cta-button"

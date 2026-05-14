@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Your Name. All rights reserved.</p>
+          <p>&copy; {currentYear} Lokesh Kumawat. All rights reserved.</p>
           {/* <div className="footer-bottom-links">
             <a href="#">Privacy</a>
             <a href="#">Terms</a>

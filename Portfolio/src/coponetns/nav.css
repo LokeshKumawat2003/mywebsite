@@ -33,6 +33,7 @@
   margin: 0;
   letter-spacing: -0.02em;
   position: relative;
+  user-select: none;
 }
 .nav-logo span {
      font-size: 1.4rem;

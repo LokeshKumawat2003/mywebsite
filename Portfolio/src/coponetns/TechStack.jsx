@@ -5,7 +5,7 @@ export default function TechStack() {
     Frontend: ['React','React Native', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'Vite'],
     Backend: ['Node.js', 'Express.js', 'MongoDB'],
     Tools: ['Git', 'GitHub', 'VS Code', 'Webpack', 'npm',"AI" ],
-    Other: ['REST APIs', 'GraphQL', 'Responsive Design', 'Web Performance'],
+    Other: ['REST APIs', 'Responsive Design', 'Web Performance'],
   };
 
   return (
